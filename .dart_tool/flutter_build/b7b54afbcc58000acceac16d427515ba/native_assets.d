@@ -1,0 +1,1 @@
+ C:\\Users\\STUDENT-PC17\\AndroidStudioProjects\\sombrador\\.dart_tool\\flutter_build\\b7b54afbcc58000acceac16d427515ba\\native_assets.yaml: 
